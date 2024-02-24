@@ -1,0 +1,10 @@
+{
+    "name": "COMGER APP",
+    "short_name": "COMGER APP",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "Feito Sob Medida Para Quem Gostar",
+    "orientation": "natural"
+}
